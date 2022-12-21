@@ -1,0 +1,17 @@
+body{
+
+    background-color: grey;
+
+}
+
+.container{
+
+    background-color: white;
+    padding: 5rem;
+    border: 12px solid #000000;
+    border-radius: 10px;
+    position: relative;
+    bottom: -25rem;
+
+
+}
